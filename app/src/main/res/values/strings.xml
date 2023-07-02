@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikacja3</string>
+    <string name="adres_tv">Adres:</string>
+    <string name="info_bt">POBIERZ INFORMACJE</string>
+    <string name="plik_bt">POBIERZ PLIK</string>
+    <string name="rozmiar_tv">Rozmiar pliku:</string>
+    <string name="rozmiar_et">0</string>
+    <string name="typ_tv">Typ pliku:</string>
+    <string name="adres_et">https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.36.tar.xz</string>
+    <string name="progres_tv">Pobrano %:</string>
+    <string name="typ_et">0</string>
+    <string name="powiadomienie_tytul" />
+</resources>
